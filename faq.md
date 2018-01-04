@@ -21,7 +21,7 @@ In your fork's location, do once:
 git remote add upstream https://github.com/richelbilderbeek/correct_cpp_scoreboard
 ```
 
-Do each time you sync:
+In your fork's location, then do each time you want to sync:
 
 ```
 git fetch upstream
