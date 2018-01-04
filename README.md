@@ -1,6 +1,6 @@
 # correct_cpp_scoreboard
 
-Your [Correct C++](https://github.com/richelbilderbeek/correct_cpp) scoreboard. 
+[richelbilderbeek](https://github.com/richelbilderbeek)'s [Correct C++](https://github.com/richelbilderbeek/correct_cpp) scoreboard. 
 
 Fork it, edit [README.md](README.md) and replace the name `richelbilderbeek` by your GitHub username.
 
