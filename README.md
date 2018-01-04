@@ -2,7 +2,7 @@
 
 Your [Correct C++](https://github.com/richelbilderbeek/correct_cpp) scoreboard. 
 
-Fork it, and replace the name `richelbilderbeek` by your GitHub username.
+Fork it, edit `README.md` and replace the name `richelbilderbeek` by your GitHub username.
 
 Chapter|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo](Codecov.png)](https://www.codecov.io)
 ---|---|---
