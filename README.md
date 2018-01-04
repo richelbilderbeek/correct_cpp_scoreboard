@@ -16,3 +16,7 @@ Chapter|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo
 [is_perfect](https://github.com/richelbilderbeek/correct_cpp_is_perfect)|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_is_perfect.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp_is_perfect) | [![codecov.io](https://codecov.io/github/richelbilderbeek/correct_cpp_is_perfect/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/correct_cpp_is_perfect?branch=master)
 
 For the original: all chapter's statuses should fail and all later chapters must have a code coverage below 100%.
+
+## [FAQ](faq.md)
+
+See [FAQ](faq.md).
