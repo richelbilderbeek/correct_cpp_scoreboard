@@ -1,33 +1,10 @@
-# Correct C++ chapter's .travis.yml file
-# For all chapters, these are identical
-# Do not edit by hand
-
-language: cpp
-compiler: gcc
-
-install:
-  # Get my folder
-  - my_github=${PWD##*/}  
-  - chapter_folder=`echo $my_github | sed 's/correct_cpp_//'`  
-  - test_path=https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/$chapter_folder/test
-  # shared install
-  - wget https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/shared/install
-  - chmod +x install
-  - sudo ./install
-  # test
-  - wget $test_path
-  - chmod +x test
+# Correct C++ chapter's .travis.yml file for 'correct_cpp_scoreboard'
 
 script: 
-  - cppcheck --quiet --error-exitcode=1 . 
-  - ./do_oclint
-  - ./test
+  - n=`cat README.md | egrep "richelbilderbeek" | wc -l`
+  - |
+    if [ ! "$n" -eq "0" ]; then
+      echo "Incorrect: must replace all 'richelbilderbeek' by your GitHub username"
+      exit 1
+    fi
 
-after_script:
-  - ./get_code_cov > /dev/null
-  - codecov > /dev/null
-
-after_failure:
-  - echo $my_github
-  - echo $chapter_folder
-  - echo $test_path
