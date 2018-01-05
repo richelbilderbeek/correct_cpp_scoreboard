@@ -17,7 +17,7 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_score
 
 ## Exercise
 
-Replace all `richelbilderbeek`s by your GitHub username. 
+Replace all `richelbilderbeek`s by your GitHub username. Even in this line :+1:
 
 Chapter|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo](Codecov.png)](https://www.codecov.io)
 ---|---|---
