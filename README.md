@@ -42,3 +42,7 @@ This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/
   5. On your local code, modify this `README.md` file: replace `richelbilderbeek` by your GitHub username
   6. Push your code. See [push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/push_your_code.md) for help
   7. If you did everything correctly, the build status of your fork will become green. Well done! Else, click on the red build status badge to view the Travis CI log
+
+## External links
+
+ * [Video how to do this chapter (mp4)](http://www.richelbilderbeek.nl/correct_cpp_scoreboard.mp4)
