@@ -8,7 +8,7 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_score
 
 ## Goal
 
- * Experience a light version of [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/how_this_course_works.md)
+ * Experience a light version of [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md)
 
 ## Prerequisites
 
@@ -33,7 +33,7 @@ Chapter|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo
 [is_perfect](https://github.com/richelbilderbeek/correct_cpp_is_perfect)|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_is_perfect.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp_is_perfect) | [![codecov.io](https://codecov.io/github/richelbilderbeek/correct_cpp_is_perfect/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/correct_cpp_is_perfect?branch=master)
 :construction: [is_even](https://github.com/richelbilderbeek/correct_cpp_is_even)|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_is_even.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp_is_even) | [![codecov.io](https://codecov.io/github/richelbilderbeek/correct_cpp_is_even/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/correct_cpp_is_even?branch=master)
 
-This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/how_this_course_works.md):
+This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md):
 
   1. Login to [GitHub](https://github.com/)
   2. Fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/fork_a_chapter.md) for help
