@@ -45,4 +45,4 @@ This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/
 
 ## External links
 
- * [Video how to do this chapter (mp4)](http://www.richelbilderbeek.nl/correct_cpp_scoreboard.mp4)
+ * Video how to do this chapter: [mp4](http://www.richelbilderbeek.nl/correct_cpp_scoreboard.mp4) [YouTube](https://youtu.be/QABP8qEeM9o)
