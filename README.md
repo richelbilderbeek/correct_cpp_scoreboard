@@ -17,8 +17,9 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_score
 
 ## Exercise
 
- * Replace all `richelbilderbeek/correct_cpp_` s by `[your_github_username]/correct_cpp_`, even in this line :+1:
- * The link to [Correct C++](https://github.com/richelbilderbeek/correct_cpp) should still point to `richelbilderbeek`s version, even in this line :+1:
+ * Within (only) this file (`README.md`):
+   * Replace all `richelbilderbeek/correct_cpp_` s by `[your_github_username]/correct_cpp_`, even in this line :+1:
+   * The link to [Correct C++](https://github.com/richelbilderbeek/correct_cpp) should still point to `richelbilderbeek`s version, even in this line :+1:
 
 Chapter|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo](Codecov.png)](https://www.codecov.io)
 ---|---|---
