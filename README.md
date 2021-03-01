@@ -6,6 +6,8 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_score
 
 [Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Scoreboard'.
 
+:warning: this course does not work until I've updated the scripts to use GitHub Actions :warning: 
+
 ## Goal
 
  * Experience a light version of [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md)
